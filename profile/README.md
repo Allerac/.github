@@ -33,18 +33,6 @@
 
 ---
 
-## Hardware
-
-We ship pre-configured mini PCs with Allerac One pre-installed.
-Plug in and start chatting — no setup required.
-
-| Model | CPU | RAM | Price |
-|---|---|---|---|
-| **Allerac Lite** | Intel N100 | 16 GB | €149 |
-| **Allerac Home** | Intel i5 / Ryzen 5 | 32 GB | €349 |
-
----
-
 ## Tech stack
 
 `Python` `Docker` `PostgreSQL` `Ollama` `Next.js` `TypeScript` `Cloudflare`
